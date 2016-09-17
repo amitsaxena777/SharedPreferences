@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/NCR/Documents/AndroidSessions/ACD_AN_Session_8_Code/SharedPreferences/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="28057c30db19c234e15f0a790bda02f84d502358">
+        <dex dex="/Users/NCR/Documents/AndroidSessions/ACD_AN_Session_8_Code/SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2a400cc69d8a2050610ac97cc593ea22fffd25df/classes.dex" />
+    </item>
+    <item
+        jar="/Users/NCR/Documents/AndroidSessions/ACD_AN_Session_8_Code/SharedPreferences/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6ad94fd80e1f96661e53c7f6d481e5bdae28c4de">
+        <dex dex="/Users/NCR/Documents/AndroidSessions/ACD_AN_Session_8_Code/SharedPreferences/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_afcc5a5178f5152577383636e33c87afadfe2264/classes.dex" />
+    </item>
+
+</items>
